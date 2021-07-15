@@ -1,0 +1,12 @@
+C:\Users\Yito Wang\source\repos\Displayer\Displayer\bin\Debug\Displayer.exe.config
+C:\Users\Yito Wang\source\repos\Displayer\Displayer\bin\Debug\Displayer.exe
+C:\Users\Yito Wang\source\repos\Displayer\Displayer\bin\Debug\Displayer.pdb
+C:\Users\Yito Wang\source\repos\Displayer\Displayer\bin\Debug\StackExchange.Redis.dll
+C:\Users\Yito Wang\source\repos\Displayer\Displayer\bin\Debug\StackExchange.Redis.xml
+C:\Users\Yito Wang\source\repos\Displayer\Displayer\obj\Debug\Displayer.Form1.resources
+C:\Users\Yito Wang\source\repos\Displayer\Displayer\obj\Debug\Displayer.Properties.Resources.resources
+C:\Users\Yito Wang\source\repos\Displayer\Displayer\obj\Debug\Displayer.csproj.GenerateResource.cache
+C:\Users\Yito Wang\source\repos\Displayer\Displayer\obj\Debug\Displayer.csproj.CoreCompileInputs.cache
+C:\Users\Yito Wang\source\repos\Displayer\Displayer\obj\Debug\Displayer.csproj.CopyComplete
+C:\Users\Yito Wang\source\repos\Displayer\Displayer\obj\Debug\Displayer.exe
+C:\Users\Yito Wang\source\repos\Displayer\Displayer\obj\Debug\Displayer.pdb
